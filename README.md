@@ -1,5 +1,5 @@
 # Data-Visualization
-This Space showcases the data exploration and visualization projects done using Python libraries. 
+This Space showcases the data exploration and visualization project done on a business case study using Python libraries. 
 
 ### Case Study 1:
 
