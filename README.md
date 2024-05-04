@@ -1,4 +1,4 @@
-# Data-Visualization
+# Navigating the Netflix Data Universe
 This Space showcases the data exploration and visualization project done on a business case study using Python libraries. 
 
 ### Case Study 1:
